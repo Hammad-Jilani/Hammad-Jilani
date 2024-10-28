@@ -37,7 +37,7 @@
 
 ## 📈 GitHub Stats
 
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HammadJilani&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad-Jilani&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🌟 Contributions
 
