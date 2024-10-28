@@ -18,7 +18,7 @@
 - I have a passion for coding, automation, software development ,and computer vision
 - I enjoy developing applications using Java, Javascript and Python, and I'm currently focusing on web development with Spring Boot, Django and React.
 
-<br>
+
 ## 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" align="center" width="250px" style="padding: 0; margin: 0;">
