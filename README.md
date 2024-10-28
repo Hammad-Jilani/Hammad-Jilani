@@ -1,5 +1,11 @@
 ## Hi there 👋, I am Syed Hammad Ali Jilani
 
+## Interests:
+- Computer Vision
+- Software Development
+
+![3D Animation](https://github/Hammad-Jilani.com/animation.gif)
+
 ## 👨‍💻 About Me
 
 I am a software engineering student with a passion for coding, automation, software development ,and computer vision. I enjoy developing applications using Java, Javascript and Python, and I'm currently focusing on web development with Spring Boot, Django and React.
@@ -14,7 +20,7 @@ I am a software engineering student with a passion for coding, automation, softw
 
 ## 📫 How to Reach Me
 
-- **Email**: [manzoorsyed013@gmail.com](mailto:manzoorsyed013@gmail.com)
+- **Email**: [hjilani15@gmail.com](mailto:hjilani15@gmail.com)
 - **LinkedIn**: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/syed-hammad-3b0456281/))
 
 ## 📈 GitHub Stats
