@@ -14,7 +14,7 @@ I am a software engineering student with a passion for coding, automation, softw
 
 ## 📫 How to Reach Me
 
-- **Email**: [hjilani15@gmail.com](mailto:hjilani15@gmail.com)
+- **Email**: [manzoorsyed013@gmail.com](mailto:manzoorsyed013@gmail.com)
 - **LinkedIn**: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/syed-hammad-3b0456281/))
 
 ## 📈 GitHub Stats
