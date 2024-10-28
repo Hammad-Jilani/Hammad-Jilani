@@ -22,12 +22,11 @@
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" align="center" width="300px" style="padding: 0; margin: 0;">
 <br><br>
-- **Languages**: Java, Python, JavaScript
+- **Languages** : Java, Javascript, Python
 - **Web Development**: Django, React, HTML, CSS, Tailwind css
 - **Database Management**: MySQL
 - **Tools & Technologies**: Git, GitHub, Bootstrap, Linux, CI/CD Pipeline, Cloud AWS
 - **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology
-adjust it
 
 ## 📫 How to Reach Me
 
