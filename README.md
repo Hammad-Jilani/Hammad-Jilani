@@ -26,7 +26,7 @@
 - **Web Development**: Django, React, HTML, CSS, Tailwind css
 - **Database Management**: MySQL
 - **Tools & Technologies**: Git, GitHub, Bootstrap, Linux, CI/CD Pipeline, Cloud AWS
-- **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology
+- **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology 
 
 ## 📫 How to Reach Me
 
