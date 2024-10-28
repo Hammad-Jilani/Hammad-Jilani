@@ -1,4 +1,8 @@
-## Hi there 👋, I am Syed Hammad Ali Jilani
+<div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hi!+I+am+Hammad+Ali+Jilani....)](https://git.io/typing-svg)
+
+</div>
 
 ## Interests:
 - Computer Vision
