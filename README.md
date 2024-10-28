@@ -28,7 +28,8 @@
 - **Database Management**: MySQL
 - **Tools & Technologies**: Git, GitHub, Bootstrap, Linux, CI/CD Pipeline, Cloud AWS
 - **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology 
-<br><br>
+
+<br><br><br>
 ## 📫 How to Reach Me
 
 - **Email**: [hjilani15@gmail.com](mailto:hjilani15@gmail.com)
