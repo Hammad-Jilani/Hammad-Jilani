@@ -18,15 +18,40 @@
 - I have a passion for coding, automation, software development ,and computer vision
 - I enjoy developing applications using Java, Javascript and Python, and I'm currently focusing on web development with Spring Boot, Django and React.
 
-## 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+## 🚀 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+
 <br><br>
-- **Languages**: Java, Python, JavaScript
-- **Web Development**: Django, React, HTML, CSS, Tailwind css
-- **Database Management**: MySQL
-- **Tools & Technologies**: Git, GitHub, Bootstrap, Linux, CI/CD Pipeline, Cloud AWS
-- **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology
+
+### Languages
+- Java
+- Python
+- JavaScript
+
+### Web Development
+- Django
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+### Database Management
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- Bootstrap
+- Linux
+- CI/CD Pipeline
+- AWS Cloud
+
+### Learning
+- Java Spring Boot
+- Node.js
+- DevOps Practices
+- Scrum Methodology
 
 ## 📫 How to Reach Me
 
