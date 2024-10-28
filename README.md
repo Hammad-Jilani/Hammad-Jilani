@@ -39,7 +39,7 @@
 
 ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad-Jilani&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## Languages
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Jilani&layout=pie)](https://github.com/Hammad-Jilani/github-readme-stats)
 
 
