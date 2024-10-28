@@ -1,16 +1,17 @@
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hi!+I+am+Hammad+Ali+Jilani....)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hi+!+I+am+Hammad+Ali+Jilani....)](https://git.io/typing-svg)
 
 </div>
+
 
 ## Interests:
 - Computer Vision
 - Software Development
 
-![3D Animation](https://github/Hammad-Jilani.com/animation.gif)
 
 ## 👨‍💻 About Me
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 I am a software engineering student with a passion for coding, automation, software development ,and computer vision. I enjoy developing applications using Java, Javascript and Python, and I'm currently focusing on web development with Spring Boot, Django and React.
 
