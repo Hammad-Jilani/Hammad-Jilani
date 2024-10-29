@@ -10,7 +10,7 @@
 - Software Development
 
 
-## 👨‍💻 About Me
+## About Me
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - I am a **3rd year** software engineering student at **FAST-NUCES**
@@ -19,7 +19,8 @@
 - I enjoy developing applications using Java, Javascript and Python, and I'm currently focusing on web development with Spring Boot, Django and React.
 
 
-## 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+## Skills 
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" align="center" width="250px" style="padding: 0; margin: 0;">
 
@@ -30,12 +31,13 @@
 - **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology 
 
 <br><br><br>
-## 📫 How to Reach Me
+## How to Reach Me
 
-- **Email**: [hjilani15@gmail.com](mailto:hjilani15@gmail.com)
+- **Email**:
+- [hjilani15@gmail.com](mailto:hjilani15@gmail.com)
 - **LinkedIn**: ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/syed-hammad-3b0456281/))
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad-Jilani&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
@@ -49,4 +51,4 @@ I am always looking to collaborate on exciting projects! Feel free to check out 
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
