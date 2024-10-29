@@ -11,7 +11,7 @@
 
 
 ## About Me
-<img align="right" alt="GIF" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="center"/>
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 - I am a **3rd year** software engineering student at **FAST-NUCES**
 - I have secured **3 Deans' List** out of 4 semesters
