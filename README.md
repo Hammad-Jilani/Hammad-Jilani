@@ -25,10 +25,10 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" align="center" width="250px" style="padding: 0; margin: 0;">
 
 - **Languages** : Java, Javascript, Python
-- **Web Development**: Django, React, HTML, CSS, Tailwind css
-- **Database Management**: MySQL
+- **Web Development**: Django, React, HTML, CSS, Tailwind css, Spring Boot
+- **Database Management**: MySQL, Postgresql
 - **Tools & Technologies**: Git, GitHub, Bootstrap, Linux, CI/CD Pipeline, Cloud AWS
-- **Learning**: Java Spring Boot, Node.js, DevOps practices ,and Scrum Methodology 
+- **Learning**: Node.js, DevOps practices , Docker, Kubernetes, and Scrum Methodology 
 
 <br><br><br>
 ## How to Reach Me
