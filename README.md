@@ -6,7 +6,7 @@
 
 
 ## Interests:
-- Computer Vision
+- DevOps
 - Software Development
 
 
